@@ -1,6 +1,24 @@
- 
 
-Hi there I'm Susam Gunes 👋
-🔭 I have experience in Asp.Net MVC, .Net Core, C#, Angular, Sql, PL/Sql, Jquery
-💻 I'm currently working on .Net & .Net Core programming
-⭐ I like to write blog posts.
+
+
+### Hi there I'm Susam Guneş 👋
+- 🔭 I have experience in Asp.Net MVC, .Net Core, C#, Angular, Sql, PL/Sql, Jquery
+- :computer: I'm currently working on .Net & .Net Core programming
+- :star: I like to write blog posts.
+
+
+
+<!--
+**alicancevik/alicancevik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
